@@ -1,2 +1,1 @@
-# OpenGL-computa-o-gr-fica-
-OpenGL computação gráfica 
+# Trabalho de estudo da biblioteca de OpenGL para C++
